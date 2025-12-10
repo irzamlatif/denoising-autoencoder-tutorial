@@ -54,8 +54,8 @@ This repository also contain a **written PDF tutorial report**
 
 ## Results Summary:
 The performance this model achieved:
-- Model final training loss: 0.0139
-- Model final validation loss: 0.0142
+- Model final training loss: 0.0140
+- Model final validation loss: 0.0143
 - The close distance differnce between training and
   validation loss indicates minimal overfitting and strong generalisation.
 
