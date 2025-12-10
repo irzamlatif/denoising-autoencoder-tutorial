@@ -24,8 +24,8 @@ The topics this tutorial cover are such as:
 This repository also contain a **written PDF tutorial report**
 
 # Repository Contents
-- Individual Assignment.ipynb - Notebook containing implementation
-- Individual Assignmen.pdf - pdf contain written tutorial
+- Individual_Assignment.ipynb - Notebook containing implementation
+- Individual Assignment machine learning.pdf - pdf contain written tutorial
 - README.md - Description of the project
 - requirements.txt - python dependencies
 - LICENCE - MIT licence
